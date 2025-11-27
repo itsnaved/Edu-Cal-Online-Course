@@ -1,2 +1,1 @@
-Demo : https://648da51c0335767fb168d47c--clinquant-lebkuchen-d976ba.netlify.app/ 
-![screencapture-localhost-3000-2023-06-17-18_04_20](https://github.com/sunil9813/Educal-Online-Courses/assets/67497228/85282c81-9851-4cb5-8c6b-65053c582fa5)
+<img width="1920" height="6168" alt="asset" src="https://github.com/user-attachments/assets/287bd30c-bf8b-4383-9038-db05a7b645e7" />
